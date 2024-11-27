@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /profil/
+Disallow: /api/
+
+Sitemap: https://www.wachix.com/sitemap.xml
